@@ -1,3 +1,3 @@
-# TurtleBot3 Burger
+# Turtlebot3 Burger
 
-Contains shortcuts to bring up TurtleBot3 ROS packages. See subfolders for info.
+Contains shortcuts to bring up Turtlebot3 ROS packages. See subfolders for info.
