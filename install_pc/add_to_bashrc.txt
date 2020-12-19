@@ -1,0 +1,8 @@
+#ROS Noetic
+source /opt/ros/noetic/setup.bash
+source ~/catkin_ws/devel/setup.bash
+export ROS_HOSTNAME=localhost
+export ROS_MASTER_URI=http://localhost:11311
+
+#Turtlebot3
+export TURTLEBOT3_MODEL=burger
