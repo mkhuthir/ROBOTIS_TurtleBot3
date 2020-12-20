@@ -1,0 +1,3 @@
+#!/bin/sh
+
+roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=../slam/map.yaml
